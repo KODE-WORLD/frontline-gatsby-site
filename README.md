@@ -32,7 +32,6 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 
 ### Access Locally
 Make sure you have gatsby cli installed
-```
 Pulldown a local copy of this Github repository
 ```
 $ git clone https://github.com/KODE-WORLD/Kode-world-gatsby-site.git
