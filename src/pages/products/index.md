@@ -3,7 +3,7 @@ heading: Great software with peace of mind
 path: /products
 templateKey: product-page
 title: Our Products
-image: /img/banner-1.png
+image: /img/main-banner-prod.png
 description: "We offer a variety of services catering to the software needs of
   various industries. From single use-case programs to large enterprise level
   software.  "
