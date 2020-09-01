@@ -3,27 +3,27 @@ heading: Great software with peace of mind
 path: /products
 templateKey: product-page
 title: Our Products
-image: /img/mobile-app-cycle.jpg
+image: /img/banner-1.png
 description: "We offer a variety of services catering to the software needs of
   various industries. From single use-case programs to large enterprise level
   software.  "
 intro:
   blurbs:
-    - image: /img/mobile-app-development.png
+    - image: /img/mobile-app.png
       text: >
         We offer mobile application development. Our Apps range from educational
         apps to eCommerce platforms.   We'll work with you from design through
         testing and publishing on the app stores: Google play, Apple app store,
         and as a progressive web app .
-    - image: /img/hp-macbook-thumb.png
+    - image: /img/desktop-app-prod.png
       text: Your app needs to run on a desktop? No problem, well build and publish to
         the windows store, app store( Macintosh), and provide you with an
         offline installer .
-    - image: /img/software-training.png
+    - image: /img/training.png
       text: >
         Training: we also offer training to dedicated individuals and groups who
         are interested in learning to develop software. 
-    - image: /img/meeting-space.png
+    - image: /img/ai-prod.png
       text: Ai services coming soon.
   heading: What we offer
   description: >
