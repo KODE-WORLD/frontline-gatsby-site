@@ -13,7 +13,7 @@ description: We'll help you turn that idea into a reality and support you from
   build that dream app today.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/mobile-app.png
       text: >
         We build progressive web apps with modern javascript frameworks that are
         secure and peformant. 
@@ -21,7 +21,7 @@ intro:
       text: We offer Android application development.
     - image: /img/tutorials.png
       text: "Ios app development. Think iPhone, and Ipad. "
-    - image: /img/meeting-space.png
+    - image: /img/desktop-app-prod.png
       text: |
         We build for windows and OSX(Macintosh).
   heading: What we offer
