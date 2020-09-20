@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Kode_world software developers',
+    title: 'frontlinecode software developers',
     description:
       'Cross platform software developers. Home of fedexpense-ng',
   },
