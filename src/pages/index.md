@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Kode_World
-image: /img/home-jumbotron.jpg
+title: <frontlinecode/>
+image: /img/home-banner.jpg
 heading: Software Development
 subheading: web | Android | IOS | Windows | OSX
 mainpitch:
-  title: Why Kode-World?
+  title: Why frontlinecode?
   description: We'll build cross-platform performant and scalable apps for you in
     record time.
 description: We'll help you turn that idea into a reality and support you from
@@ -17,9 +17,9 @@ intro:
       text: >
         We build progressive web apps with modern javascript frameworks that are
         secure and peformant. 
-    - image: /img/coffee-gear.png
+    - image: /img/android-app-prod-2.png
       text: We offer Android application development.
-    - image: /img/tutorials.png
+    - image: /img/ios-app-prod.png
       text: "Ios app development. Think iPhone, and Ipad. "
     - image: /img/desktop-app-prod.png
       text: |
