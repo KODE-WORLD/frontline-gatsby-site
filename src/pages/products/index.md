@@ -41,10 +41,10 @@ main:
     image: /img/federalexpensepre.png
   image2:
     alt: Other project
-    image: /img/products-grid2.jpg
+    image: /img/gamh-chat.png
   image3:
     alt: Our chat social media app
-    image: /img/products-grid1.jpg
+    image: /img/course-goals-preview.png
 testimonials:
   - author: "George "
     quote: They delivered in record time on all 5 platforms. They are a bunch of
