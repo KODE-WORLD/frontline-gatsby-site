@@ -37,16 +37,16 @@ main:
     We take pride in producing scalable and maintainable software that meets the
     highest standards of security. 
   image1:
-    alt: federal expense tracker
-    image: /img/federalexpensepre.png
+    alt: cofee
+    image: /img/products-grid2.jpg
   image2:
-    alt: Other project
-    image: /img/gamh-chat.png
+    alt: cofee
+    image: /img/products-grid2.jpg
   image3:
-    alt: Our chat social media app
-    image: /img/course-goals-preview.png
+    alt: cofee
+    image: /img/products-grid1.jpg
 testimonials:
-  - author: "George "
+  - author: Mr Sure
     quote: They delivered in record time on all 5 platforms. They are a bunch of
       dedicated proffesionals
 full_image: /img/mobile-app-cycle.jpg
